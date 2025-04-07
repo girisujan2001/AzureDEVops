@@ -95,3 +95,5 @@ E:\SET\Six Sem\COMP 367\Assignments\Labs\Lab 3\MVC_Agile_Process\obj\Debug\net9.
 E:\SET\Six Sem\COMP 367\Assignments\Labs\Lab 3\MVC_Agile_Process\obj\Debug\net9.0\MVC_Agile_Process.pdb
 E:\SET\Six Sem\COMP 367\Assignments\Labs\Lab 3\MVC_Agile_Process\obj\Debug\net9.0\MVC_Agile_Process.genruntimeconfig.cache
 E:\SET\Six Sem\COMP 367\Assignments\Labs\Lab 3\MVC_Agile_Process\obj\Debug\net9.0\ref\MVC_Agile_Process.dll
+E:\SET\Six Sem\COMP 367\Assignments\Labs\Lab 3\MVC_Agile_Process\obj\Debug\net9.0\MVC_Agile_Process.sourcelink.json
+E:\SET\Six Sem\COMP 367\Assignments\Labs\Lab 3\MVC_Agile_Process\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

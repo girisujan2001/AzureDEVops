@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC_Agile_Process")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef850be71b1201007a1638272bc0d6a3f448824a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC_Agile_Process")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC_Agile_Process")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
